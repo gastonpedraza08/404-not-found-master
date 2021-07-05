@@ -38,8 +38,8 @@
 ![screenshot](screen.jpg)
 
 Click [here](https://gastonpedraza08.github.io/404-not-found-master/) if you want to see a demo.
-This challenge has been a great one to strengthen the concepts of responsive design
-With this challenge I have learned the basics of responsive design
+This challenge has been a great one to strengthen the concepts of responsive design.
+With this challenge I have learned the basics of responsive design.
 
 ### Built With
 
